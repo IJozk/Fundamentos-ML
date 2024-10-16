@@ -1,0 +1,502 @@
+[
+    {
+        "TravelledDistance": 3520.8,
+        "FirstKillTime": 7.35,
+        "AvgMatchKillDist": 178.1
+    },
+    {
+        "TravelledDistance": 8019.94,
+        "FirstKillTime": 28.42,
+        "AvgMatchKillDist": 391.99
+    },
+    {
+        "TravelledDistance": 3339.18,
+        "FirstKillTime": 101.31,
+        "AvgMatchKillDist": 280.67
+    },
+    {
+        "TravelledDistance": 1558.88,
+        "FirstKillTime": 42.19,
+        "AvgMatchKillDist": 672.12
+    },
+    {
+        "TravelledDistance": 7285.75,
+        "FirstKillTime": 22.41,
+        "AvgMatchKillDist": 537.62
+    },
+    {
+        "TravelledDistance": 4048.92,
+        "FirstKillTime": 101.14,
+        "AvgMatchKillDist": 250.33
+    },
+    {
+        "TravelledDistance": 7896.71,
+        "FirstKillTime": 0.99,
+        "AvgMatchKillDist": 336.52
+    },
+    {
+        "TravelledDistance": 4891.79,
+        "FirstKillTime": 72.8,
+        "AvgMatchKillDist": 511.53
+    },
+    {
+        "TravelledDistance": 4929.29,
+        "FirstKillTime": 109.53,
+        "AvgMatchKillDist": 210.94
+    },
+    {
+        "TravelledDistance": 4787.56,
+        "FirstKillTime": 28.9,
+        "AvgMatchKillDist": 383.75
+    },
+    {
+        "TravelledDistance": 5496.31,
+        "FirstKillTime": 45.69,
+        "AvgMatchKillDist": 650.11
+    },
+    {
+        "TravelledDistance": 8717.31,
+        "FirstKillTime": 108.61,
+        "AvgMatchKillDist": 80.81
+    },
+    {
+        "TravelledDistance": 942.69,
+        "FirstKillTime": 3.32,
+        "AvgMatchKillDist": 623.82
+    },
+    {
+        "TravelledDistance": 9302.92,
+        "FirstKillTime": 54.77,
+        "AvgMatchKillDist": 259.12
+    },
+    {
+        "TravelledDistance": 220.01,
+        "FirstKillTime": 42.95,
+        "AvgMatchKillDist": 215.24
+    },
+    {
+        "TravelledDistance": 4055.42,
+        "FirstKillTime": 84.61,
+        "AvgMatchKillDist": 413.81
+    },
+    {
+        "TravelledDistance": 1017.83,
+        "FirstKillTime": 118.51,
+        "AvgMatchKillDist": 790.38
+    },
+    {
+        "TravelledDistance": 901.19,
+        "FirstKillTime": 47.97,
+        "AvgMatchKillDist": 521.81
+    },
+    {
+        "TravelledDistance": 8673.59,
+        "FirstKillTime": 32.85,
+        "AvgMatchKillDist": 607.92
+    },
+    {
+        "TravelledDistance": 1474.73,
+        "FirstKillTime": 94.84,
+        "AvgMatchKillDist": 170.42
+    },
+    {
+        "TravelledDistance": 6580.66,
+        "FirstKillTime": 22.07,
+        "AvgMatchKillDist": 720.94
+    },
+    {
+        "TravelledDistance": 1127.89,
+        "FirstKillTime": 119.76,
+        "AvgMatchKillDist": 289.41
+    },
+    {
+        "TravelledDistance": 6292.26,
+        "FirstKillTime": 112.44,
+        "AvgMatchKillDist": 419.21
+    },
+    {
+        "TravelledDistance": 6141.62,
+        "FirstKillTime": 99.26,
+        "AvgMatchKillDist": 363.83
+    },
+    {
+        "TravelledDistance": 4660.61,
+        "FirstKillTime": 11.75,
+        "AvgMatchKillDist": 509.73
+    },
+    {
+        "TravelledDistance": 5134.57,
+        "FirstKillTime": 50.63,
+        "AvgMatchKillDist": 347.64
+    },
+    {
+        "TravelledDistance": 8813.4,
+        "FirstKillTime": 30.41,
+        "AvgMatchKillDist": 528.24
+    },
+    {
+        "TravelledDistance": 9695.46,
+        "FirstKillTime": 115.79,
+        "AvgMatchKillDist": 542.13
+    },
+    {
+        "TravelledDistance": 8518.21,
+        "FirstKillTime": 88.65,
+        "AvgMatchKillDist": 293.06
+    },
+    {
+        "TravelledDistance": 9634.13,
+        "FirstKillTime": 23.35,
+        "AvgMatchKillDist": 143.56
+    },
+    {
+        "TravelledDistance": 7228.04,
+        "FirstKillTime": 26.7,
+        "AvgMatchKillDist": 163.68
+    },
+    {
+        "TravelledDistance": 8512.4,
+        "FirstKillTime": 113.42,
+        "AvgMatchKillDist": 398.36
+    },
+    {
+        "TravelledDistance": 7171.83,
+        "FirstKillTime": 22.26,
+        "AvgMatchKillDist": 752.71
+    },
+    {
+        "TravelledDistance": 7919.88,
+        "FirstKillTime": 19.61,
+        "AvgMatchKillDist": 133.93
+    },
+    {
+        "TravelledDistance": 381.33,
+        "FirstKillTime": 84.78,
+        "AvgMatchKillDist": 316.94
+    },
+    {
+        "TravelledDistance": 7278.4,
+        "FirstKillTime": 33.7,
+        "AvgMatchKillDist": 749.06
+    },
+    {
+        "TravelledDistance": 2564.06,
+        "FirstKillTime": 71.32,
+        "AvgMatchKillDist": 131.78
+    },
+    {
+        "TravelledDistance": 2904.67,
+        "FirstKillTime": 75.97,
+        "AvgMatchKillDist": 539.73
+    },
+    {
+        "TravelledDistance": 1933.61,
+        "FirstKillTime": 4.14,
+        "AvgMatchKillDist": 446.63
+    },
+    {
+        "TravelledDistance": 1804.69,
+        "FirstKillTime": 110.69,
+        "AvgMatchKillDist": 583.71
+    },
+    {
+        "TravelledDistance": 5277.11,
+        "FirstKillTime": 54.03,
+        "AvgMatchKillDist": 134.63
+    },
+    {
+        "TravelledDistance": 4717.1,
+        "FirstKillTime": 8.32,
+        "AvgMatchKillDist": 208.51
+    },
+    {
+        "TravelledDistance": 1396.56,
+        "FirstKillTime": 58.84,
+        "AvgMatchKillDist": 341.3
+    },
+    {
+        "TravelledDistance": 2190.52,
+        "FirstKillTime": 63.68,
+        "AvgMatchKillDist": 577.86
+    },
+    {
+        "TravelledDistance": 1114.57,
+        "FirstKillTime": 58.16,
+        "AvgMatchKillDist": 228.8
+    },
+    {
+        "TravelledDistance": 6674.22,
+        "FirstKillTime": 69.87,
+        "AvgMatchKillDist": 601.85
+    },
+    {
+        "TravelledDistance": 3456.75,
+        "FirstKillTime": 68.4,
+        "AvgMatchKillDist": 723.4
+    },
+    {
+        "TravelledDistance": 9900.69,
+        "FirstKillTime": 81.18,
+        "AvgMatchKillDist": 305.63
+    },
+    {
+        "TravelledDistance": 7026.72,
+        "FirstKillTime": 109.15,
+        "AvgMatchKillDist": 677.37
+    },
+    {
+        "TravelledDistance": 9021.59,
+        "FirstKillTime": 68.04,
+        "AvgMatchKillDist": 164.67
+    },
+    {
+        "TravelledDistance": 8226.54,
+        "FirstKillTime": 112.69,
+        "AvgMatchKillDist": 428.86
+    },
+    {
+        "TravelledDistance": 9072.08,
+        "FirstKillTime": 29.35,
+        "AvgMatchKillDist": 292.46
+    },
+    {
+        "TravelledDistance": 9503.92,
+        "FirstKillTime": 99.87,
+        "AvgMatchKillDist": 422.38
+    },
+    {
+        "TravelledDistance": 2445.32,
+        "FirstKillTime": 29.85,
+        "AvgMatchKillDist": 130.74
+    },
+    {
+        "TravelledDistance": 8826.31,
+        "FirstKillTime": 67.14,
+        "AvgMatchKillDist": 266.03
+    },
+    {
+        "TravelledDistance": 7417.79,
+        "FirstKillTime": 8.65,
+        "AvgMatchKillDist": 484.44
+    },
+    {
+        "TravelledDistance": 1087.37,
+        "FirstKillTime": 13.52,
+        "AvgMatchKillDist": 697.52
+    },
+    {
+        "TravelledDistance": 9777.05,
+        "FirstKillTime": 90.36,
+        "AvgMatchKillDist": 381.25
+    },
+    {
+        "TravelledDistance": 6639.84,
+        "FirstKillTime": 64.01,
+        "AvgMatchKillDist": 244.26
+    },
+    {
+        "TravelledDistance": 4576.26,
+        "FirstKillTime": 53.52,
+        "AvgMatchKillDist": 406.13
+    },
+    {
+        "TravelledDistance": 9173.82,
+        "FirstKillTime": 61.03,
+        "AvgMatchKillDist": 201.24
+    },
+    {
+        "TravelledDistance": 7898.63,
+        "FirstKillTime": 23.48,
+        "AvgMatchKillDist": 478.55
+    },
+    {
+        "TravelledDistance": 9325.9,
+        "FirstKillTime": 36.2,
+        "AvgMatchKillDist": 82.45
+    },
+    {
+        "TravelledDistance": 5754.97,
+        "FirstKillTime": 23.63,
+        "AvgMatchKillDist": 464.23
+    },
+    {
+        "TravelledDistance": 3766.1,
+        "FirstKillTime": 72.39,
+        "AvgMatchKillDist": 338.03
+    },
+    {
+        "TravelledDistance": 4946.56,
+        "FirstKillTime": 13.73,
+        "AvgMatchKillDist": 149.84
+    },
+    {
+        "TravelledDistance": 5054.2,
+        "FirstKillTime": 46.7,
+        "AvgMatchKillDist": 155.64
+    },
+    {
+        "TravelledDistance": 2561.12,
+        "FirstKillTime": 86.74,
+        "AvgMatchKillDist": 544.45
+    },
+    {
+        "TravelledDistance": 9206.77,
+        "FirstKillTime": 95.53,
+        "AvgMatchKillDist": 402.83
+    },
+    {
+        "TravelledDistance": 4887.78,
+        "FirstKillTime": 46.03,
+        "AvgMatchKillDist": 670.37
+    },
+    {
+        "TravelledDistance": 6695.94,
+        "FirstKillTime": 115.71,
+        "AvgMatchKillDist": 684.11
+    },
+    {
+        "TravelledDistance": 3630.8,
+        "FirstKillTime": 9.61,
+        "AvgMatchKillDist": 62.3
+    },
+    {
+        "TravelledDistance": 9423.7,
+        "FirstKillTime": 52.12,
+        "AvgMatchKillDist": 571.74
+    },
+    {
+        "TravelledDistance": 721.29,
+        "FirstKillTime": 5.27,
+        "AvgMatchKillDist": 194.25
+    },
+    {
+        "TravelledDistance": 5758.54,
+        "FirstKillTime": 16.38,
+        "AvgMatchKillDist": 701.32
+    },
+    {
+        "TravelledDistance": 4453.13,
+        "FirstKillTime": 3.13,
+        "AvgMatchKillDist": 509.6
+    },
+    {
+        "TravelledDistance": 8100.53,
+        "FirstKillTime": 12.68,
+        "AvgMatchKillDist": 202.34
+    },
+    {
+        "TravelledDistance": 7195.74,
+        "FirstKillTime": 99.45,
+        "AvgMatchKillDist": 573.59
+    },
+    {
+        "TravelledDistance": 2213.35,
+        "FirstKillTime": 105.64,
+        "AvgMatchKillDist": 487.16
+    },
+    {
+        "TravelledDistance": 1132.16,
+        "FirstKillTime": 81.08,
+        "AvgMatchKillDist": 332.53
+    },
+    {
+        "TravelledDistance": 5771.36,
+        "FirstKillTime": 104.23,
+        "AvgMatchKillDist": 281.45
+    },
+    {
+        "TravelledDistance": 5680.56,
+        "FirstKillTime": 90.96,
+        "AvgMatchKillDist": 298.44
+    },
+    {
+        "TravelledDistance": 3016.46,
+        "FirstKillTime": 38.68,
+        "AvgMatchKillDist": 578.04
+    },
+    {
+        "TravelledDistance": 3954.53,
+        "FirstKillTime": 74.37,
+        "AvgMatchKillDist": 426.29
+    },
+    {
+        "TravelledDistance": 2851.39,
+        "FirstKillTime": 57.05,
+        "AvgMatchKillDist": 366.15
+    },
+    {
+        "TravelledDistance": 9401.65,
+        "FirstKillTime": 53.38,
+        "AvgMatchKillDist": 63.66
+    },
+    {
+        "TravelledDistance": 5471.14,
+        "FirstKillTime": 90.21,
+        "AvgMatchKillDist": 589.0
+    },
+    {
+        "TravelledDistance": 2403.79,
+        "FirstKillTime": 77.15,
+        "AvgMatchKillDist": 582.85
+    },
+    {
+        "TravelledDistance": 4511.72,
+        "FirstKillTime": 2.86,
+        "AvgMatchKillDist": 193.33
+    },
+    {
+        "TravelledDistance": 5352.77,
+        "FirstKillTime": 13.25,
+        "AvgMatchKillDist": 786.78
+    },
+    {
+        "TravelledDistance": 8371.95,
+        "FirstKillTime": 85.08,
+        "AvgMatchKillDist": 372.5
+    },
+    {
+        "TravelledDistance": 6827.93,
+        "FirstKillTime": 18.27,
+        "AvgMatchKillDist": 94.43
+    },
+    {
+        "TravelledDistance": 1139.23,
+        "FirstKillTime": 92.28,
+        "AvgMatchKillDist": 652.07
+    },
+    {
+        "TravelledDistance": 5454.19,
+        "FirstKillTime": 97.52,
+        "AvgMatchKillDist": 197.16
+    },
+    {
+        "TravelledDistance": 1170.39,
+        "FirstKillTime": 62.95,
+        "AvgMatchKillDist": 776.91
+    },
+    {
+        "TravelledDistance": 8367.67,
+        "FirstKillTime": 93.01,
+        "AvgMatchKillDist": 526.72
+    },
+    {
+        "TravelledDistance": 995.09,
+        "FirstKillTime": 43.02,
+        "AvgMatchKillDist": 296.6
+    },
+    {
+        "TravelledDistance": 5271.8,
+        "FirstKillTime": 87.83,
+        "AvgMatchKillDist": 687.26
+    },
+    {
+        "TravelledDistance": 3778.64,
+        "FirstKillTime": 52.2,
+        "AvgMatchKillDist": 735.33
+    },
+    {
+        "TravelledDistance": 6869.72,
+        "FirstKillTime": 66.6,
+        "AvgMatchKillDist": 235.05
+    }
+]
